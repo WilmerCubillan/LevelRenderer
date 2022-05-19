@@ -6,6 +6,7 @@
 
 
 std::vector<GW::MATH::GMATRIXF> MatrixList;
+std::vector<GW::MATH::GVECTORF> MatrixList;
 
 void parseGameLvl(const char* FileName) 
 {
