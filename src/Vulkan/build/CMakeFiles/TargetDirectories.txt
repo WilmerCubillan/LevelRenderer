@@ -1,3 +1,0 @@
-D:/Documents/FullSailD/Dev4/Week_2_Handout/Assignments/Assignment 2/Vulkan/build/CMakeFiles/Assignment_2_Vulkan.dir
-D:/Documents/FullSailD/Dev4/Week_2_Handout/Assignments/Assignment 2/Vulkan/build/CMakeFiles/ALL_BUILD.dir
-D:/Documents/FullSailD/Dev4/Week_2_Handout/Assignments/Assignment 2/Vulkan/build/CMakeFiles/ZERO_CHECK.dir
