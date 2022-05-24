@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\FULLSAILD\DEV4\WEEK_2_HANDOUT\ASSIGNMENTS\ASSIGNMENT 2\VULKAN\BUILD\CMAKEFILES\148555FE6F8D54DB49F4FFA6DA6A3660\GENERATE.STAMP.RULE
+setlocal
+D:\Documents\FullSailD\Dev4\Cmake\bin\cmake.exe "-SD:/Documents/FullSailD/Dev4/Week_2_Handout/Assignments/Assignment 2/Vulkan" "-BD:/Documents/FullSailD/Dev4/Week_2_Handout/Assignments/Assignment 2/Vulkan/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Documents/FullSailD/Dev4/Week_2_Handout/Assignments/Assignment 2/Vulkan/build/Assignment_2_Vulkan.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
